@@ -1,0 +1,47 @@
+body {
+background-color:darkmagenta
+}
+
+main
+h1,h2,h3{
+    color:floralwhite
+}
+h1,h2{
+    text-align: center;
+    font-size: 100pt;
+}
+
+p,h3{
+    text-align: center;
+}
+
+h3
+{
+    font-size: 50pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: lighter;
+    font-variant-caps: all-small-caps;
+    
+
+}
+img {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+  
+p {
+    font-family: verdana;
+    font-size: 20pt;
+    color: floralwhite;
+
+  }
+  section{
+      font-size: 20pt;
+      color: white;
+  }
+  div link {
+      color: white;
+      text-align: center;
+  }
